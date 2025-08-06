@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently helping companies to automate manual work, maintain a healthier org, guiding them to implement best practices, and some Agentforce in the mix<br>💬 Ask me about Salesforce Development<br>⚡ Fun fact: I'm a DJ!
+🔭 Currently helping companies to automate manual work, maintain a healthier org, guiding them to implement best practices, and some Agentforce in the mix<br>💬 Ask me about Salesforce Development<br>⚡ Fun fact: I'm a DJ! Check out my sets at SoundCloud: https://soundcloud.com/tomsouza4
 
 
 ## 🌐 Socials:
